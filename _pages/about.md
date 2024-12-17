@@ -22,7 +22,7 @@ I am currently a first year PhD Student at the School of Data Science and Engine
 My research interests include:
 - **Reinforcement Learning**: applications in graph representation learning, Retrieval-Augmented Generation (RAG);
 - **Graph Neural Networks**: graph prompt tuning, graph active learning, graph self-supervised learning;
-- **Large Language Models:**: applications in graph RAG, toxicity detection.
+- **Large Language Models**: applications in graph RAG, toxicity detection.
 <!-- My research interests include data mining, especially graph mining. The research work I have been involved in encompasses heterogeneous graph mining and weakly supervised learning on graphs. -->
 <!-- Currently I am exploring the integration of Large Language Models (LLMs) with Graph Neural Networks (GNNs). -->
 
@@ -49,7 +49,7 @@ My research interests include:
 
 # 📖 Educations
 - *2022.09 - now*, PhD, Data Science and Engineering, East China Normal University (via postgraduate recommendation) <img src='./images/logos/dase_log1.png' style='width: 5em;'>
-- *2018.09 - 2022.06*, Undergraduate, School of Information Science and Engineering, East China University of Science and Technology  <img src='./images/logos/ecust.png' style='width: 5.5em;'>
+- *2018.09 - 2022.06*, Undergraduate, School of Information Science and Engineering, East China University of Science and Technology  <img src='./images/logos/ecust.png' style='width: 1em;'>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

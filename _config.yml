@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zichen Ding"
+title                    : "Jiapeng Zhu"
 description              : ""
-repository               : "heroding77/heroding77.github.io"
+repository               : "JasonZhujp/JasonZhujp.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zichen Ding"
+  name             : "Jiapeng Zhu"
   avatar           : "images/person.jpg"
-  bio              : "Master's Student, East China Normal University"
+  bio              : "PHD Student, East China Normal University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=N4NNsRMAAAAJ"
-  email            : "heroding77@gmail.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=piCIfLwAAAAJ"
+  email            : "jiapengzhu@stu.ecnu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "heroding77"
+  github           : "JasonZhujp"
   google_plus      :
   keybase          :
   instagram        :

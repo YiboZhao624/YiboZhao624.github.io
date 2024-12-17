@@ -49,7 +49,7 @@ My research interests include:
 
 # 📖 Educations
 - *2022.09 - now*, PhD, Data Science and Engineering, East China Normal University (via postgraduate recommendation) <img src='./images/logos/dase_log1.png' style='width: 5em;'>
-- *2018.09 - 2022.06*, Undergraduate, School of Information Science and Engineering, East China University of Science and Technology  <img src='./images/logos/ecust.png' style='width: 1em;'>
+- *2018.09 - 2022.06*, Undergraduate, School of Information Science and Engineering, East China University of Science and Technology  <img src='./images/logos/ecust.png' style='width: 2.5em;'>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

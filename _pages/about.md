@@ -35,7 +35,7 @@ My research interests include:
 
 # 🔥 News
 
-- *2024.12* 🎉 🎉 New homepage!
+- *2024.12* 🎉🎉 New homepage!
 - *2024.11* 🥂🥂 Our paper [RELIEF](https://arxiv.org/pdf/2408.03195) is accepted by KDD 2025! See you in Toronto!
 
 {% include_relative includes/pub.md %}
@@ -48,7 +48,7 @@ My research interests include:
 
 
 # 📖 Educations
-- *2022.09 - now*, PhD, Data Science and Engineering, East China Normal University (via postgraduate recommendation) <img src='./images/logos/dase_log1.png' style='width: 5em;'>
+- *2022.09 - now*, PhD, Data Science and Engineering, East China Normal University (via postgraduate recommendation) <img src='./images/logos/ecnu.png' style='width: 3.5em;'>
 - *2018.09 - 2022.06*, Undergraduate, School of Information Science and Engineering, East China University of Science and Technology  <img src='./images/logos/ecust.png' style='width: 2.5em;'>
 
 <!-- # 💬 Invited Talks

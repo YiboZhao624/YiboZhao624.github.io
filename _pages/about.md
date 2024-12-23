@@ -41,14 +41,14 @@ My research interests include:
 {% include_relative includes/pub.md %}
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2022-2025* Graduate Academic Scholarship, East China Normal University
-- *2022.06* Outstanding Graduate, East China University of Science and Technology 
+- *2022.06* Outstanding Graduate, East China University of Science and Technology
 - *2018-2022* Academic Excellence Scholarship, East China University of Science and Technology 
 
 
 # 📖 Educations
-- *2022.09 - now*, PhD, Data Science and Engineering, East China Normal University (via postgraduate recommendation) <img src='./images/logos/ecnu.png' style='width: 3.5em;'>
+- *2022.09 - now*, PhD, Data Science and Engineering, East China Normal University (via postgraduate recommendation) <img src='./images/logos/ecnu.png' style='width: 2.5em;'>
 - *2018.09 - 2022.06*, Undergraduate, School of Information Science and Engineering, East China University of Science and Technology  <img src='./images/logos/ecust.png' style='width: 2.5em;'>
 
 <!-- # 💬 Invited Talks

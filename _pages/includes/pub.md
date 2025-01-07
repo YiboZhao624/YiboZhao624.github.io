@@ -1,6 +1,7 @@
 
 # 📑 Publications  <a href='https://scholar.google.com/citations?user=piCIfLwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+- `TKDE 2025` Adversarial Conservative Alternating Q-Learning for Credit Card Debt Collection, <br> Wenhui Liu, **Jiapeng Zhu**, Lyu Ni, Jingyu Bi, Zhijian Wu, Jiajie Long, Mengyao Gao, Dingjiang Huang, Shuigeng Zhou.
 
 - `KDD 2025` [RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning](https://arxiv.org/abs/2408.03195), <br> **Jiapeng Zhu**, Zichen Ding, Jianxiang Yu, Jiaqi Tan, Xiang Li.
 

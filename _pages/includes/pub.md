@@ -3,7 +3,7 @@
 
 - `WWW 2025` Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection, <br>  Long Zeng, Jianxiang Yu, **Jiapeng Zhu**, Qingsong Zhong, Xiang Li.
 
-- `TKDE 2025` Adversarial Conservative Alternating Q-Learning for Credit Card Debt Collection, <br> Wenhui Liu, **Jiapeng Zhu**, Lyu Ni, Jingyu Bi, Zhijian Wu, Jiajie Long, Mengyao Gao, Dingjiang Huang, Shuigeng Zhou.
+- `TKDE 2025` [Adversarial Conservative Alternating Q-Learning for Credit Card Debt Collection](https://ieeexplore.ieee.org/abstract/document/10836919), <br> Wenhui Liu, **Jiapeng Zhu**, Lyu Ni, Jingyu Bi, Zhijian Wu, Jiajie Long, Mengyao Gao, Dingjiang Huang, Shuigeng Zhou.
 
 - `KDD 2025` [RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning](https://arxiv.org/abs/2408.03195), <br> **Jiapeng Zhu**, Zichen Ding, Jianxiang Yu, Jiaqi Tan, Xiang Li.
 
@@ -11,6 +11,7 @@
 
 
 # 📜 Preprints
+- [Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving](https://arxiv.org/abs/2503.06567), <br> Yao Cheng, Yibo Zhao, **Jiapeng Zhu**, Yao Liu, Xing Sun, Xiang Li.
 
 - [Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph](https://arxiv.org/abs/2412.15268), <br> Yibo Zhao, **Jiapeng Zhu**, Can Xu, Xiang Li.
 

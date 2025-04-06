@@ -5,7 +5,7 @@
 
 - `TKDE 2025` [Adversarial Conservative Alternating Q-Learning for Credit Card Debt Collection](https://ieeexplore.ieee.org/abstract/document/10836919), <br> Wenhui Liu, **Jiapeng Zhu**, Lyu Ni, Jingyu Bi, Zhijian Wu, Jiajie Long, Mengyao Gao, Dingjiang Huang, Shuigeng Zhou.
 
-- `KDD 2025` [RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning](https://arxiv.org/abs/2408.03195), <br> **Jiapeng Zhu**, Zichen Ding, Jianxiang Yu, Jiaqi Tan, Xiang Li.
+- `KDD 2025` [RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning](https://dl.acm.org/doi/10.1145/3690624.3709252), <br> **Jiapeng Zhu**, Zichen Ding, Jianxiang Yu, Jiaqi Tan, Xiang Li.
 
 - `CIKM 2024` [GraphCBAL: Class-Balanced Active Learning for Graph Neural Networks via Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3627673.3679624), <br> ChengCheng Yu, **Jiapeng Zhu**, Xiang Li.
 
@@ -17,4 +17,4 @@
 
 - [SEAGraph: Unveiling the Whole Story of Paper Review Comments](https://arxiv.org/abs/2412.11939), <br> Jianxiang Yu, Jiaqi Tan, Zichen Ding, **Jiapeng Zhu**, Jiahao Li, Yao Cheng, Qier Cui, Yunshi Lan, Xiang Li.
 
-- [Boosting Cross-Domain and Cross-Task Generalization for Text-Attributed Graphs from Structural Perspective](), <br> Yao Cheng, **Jiapeng Zhu**, Jianxiang Yu, Jiaqi Tan, Xiang Li.
+- Boosting Cross-Domain and Cross-Task Generalization for Text-Attributed Graphs from Structural Perspective, <br> Yao Cheng, **Jiapeng Zhu**, Jianxiang Yu, Jiaqi Tan, Xiang Li.

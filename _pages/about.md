@@ -28,6 +28,7 @@ My research interests include:
 <span class='anchor' id='publications'></span>
 
 # 🔥 News
+- *2025.05* 🔥🔥 My first work is Accepted by ACL 2025 Findings, see you in Vienna, Austria!
 - *2025.05* 🥂🥂 New homepage here!
 {% include_relative includes/pub.md %}
 

@@ -8,3 +8,5 @@
 # 📜 Preprints
 
 - [Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving](https://arxiv.org/abs/2503.06567), <br> Yao Cheng, **Yibo Zhao**, Jiapeng Zhu, Yao Liu, Xing Sun, Xiang Li.
+
+- [E$^2$GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness](https://arxiv.org/abs/2505.24226), <br> **Yibo Zhao**, Jiapeng Zhu, Ye Guo, Kangkang He, Xiang Li.

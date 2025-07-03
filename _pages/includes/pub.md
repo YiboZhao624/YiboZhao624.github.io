@@ -7,7 +7,7 @@
 
 # 📜 Preprints
 
-- [Text Detoxification: Data Efficiency, Semantic Preservation and Model Generalization](https://arxiv.org/abs/2507.01050), <br> Jing Yu*, **Yibo Zhao***, Jiapeng Zhu, Wenming Shao, Bo Pang, Zhao Zhang, Xiang Li.
+- [Text Detoxification: Data Efficiency, Semantic Preservation and Model Generalization](https://arxiv.org/abs/2507.01050), <br> Jing Yu\*, **Yibo Zhao\***, Jiapeng Zhu, Wenming Shao, Bo Pang, Zhao Zhang, Xiang Li.
 
 - [E$^2$GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness](https://arxiv.org/abs/2505.24226), <br> **Yibo Zhao**, Jiapeng Zhu, Ye Guo, Kangkang He, Xiang Li.
 

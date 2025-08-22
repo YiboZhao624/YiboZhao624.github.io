@@ -28,7 +28,7 @@ My research interests include:
 <span class='anchor' id='publications'></span>
 
 # 🔥 News
-- *2025.08* 🔥🔥 A new work on Text Detoxification has been accepted by EMNLP 2025 main conference, where I am a co-first author! See you in Suzhou, China!
+- *2025.08* 🔥🔥 A new work on Text Detoxification has been accepted by EMNLP 2025 main conference! See you in Suzhou, China!
 - *2025.07* 🔥🔥 E$^2$GraphRAG has received 100 stars on [GitHub](https://github.com/YiboZhao624/E-2GraphRAG)!
 - *2025.05* 🎉🎉 My first work is Accepted by ACL 2025 Findings, see you in Vienna, Austria!
 {% include_relative includes/pub.md %}

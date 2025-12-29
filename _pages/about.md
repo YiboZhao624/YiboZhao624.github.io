@@ -44,4 +44,4 @@ My research interests include:
 
 
 # 💻 Internships
-- *2025.12 - now* GUI Agent Intern, Computer Using Agent Group, AI Lab <img src='./images/logos/AILAB.png' style='width: 1.5em;'>, Shanghai, China.
+- *2025.12 - now* GUI Agent Intern, Computer Using Agent Group, AI Lab <img src='./images/logos/AILAB.png' style='width: 3em;'>, Shanghai, China.

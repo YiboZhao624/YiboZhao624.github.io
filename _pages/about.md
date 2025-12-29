@@ -21,7 +21,7 @@ I am currently a second-year post-graduate Student at the School of Data Science
 
 My research interests include:
 - **Large Language Models**: applications in GraphRAG, toxicity detection, and detoxification.
-- **Reinforcement Learning**: applications in agent related research, especially tool calling and memory management.
+- **Reinforcement Learning**: applications in agent related research, especially search agent and memory management.
 
 ★★★ Feel free to reach out to me for academic discussions and collaborations!
 

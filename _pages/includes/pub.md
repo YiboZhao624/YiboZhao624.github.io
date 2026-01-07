@@ -10,3 +10,5 @@
 # 📜 Preprints
 
 - [E$^2$GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness](https://arxiv.org/abs/2505.24226), <br> **Yibo Zhao**, Jiapeng Zhu, Jianxiang Yu, Ye Guo, Kangkang He, Xiang Li.
+
+- [GRACE: Reinforcement Learning for Grounded Response and Abstention under Contextual Evidence](TBD), <br> **Yibo Zhao**, Jiapeng Zhu, Zichen Ding, Xiang Li.

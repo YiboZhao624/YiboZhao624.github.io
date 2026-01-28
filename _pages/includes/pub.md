@@ -13,4 +13,6 @@
 
 - [GRACE: Reinforcement Learning for Grounded Response and Abstention under Contextual Evidence](https://arxiv.org/abs/2601.04525), <br> **Yibo Zhao**, Jiapeng Zhu, Zichen Ding, Xiang Li.
 
-- [APEX: Academic Poster Editing Agentic Expert](https://arxiv.org/abs/2601.04794),<br> Chengxin Shi, Qinnan Cai, Zeyuan Chen, Long Zeng, **Yibo Zhao**, Jing Yu, Jianxiang Yu, Xiang Li.
+- [RATE: Reviewer Profiling and Annotation-free Training for Expertise Ranking in Peer Review Systems](https://arxiv.org/abs/2601.19637), <br> Weicong Liu\*, Zixuan Yang\*, **Yibo Zhao**, Xiang Li.
+
+- [APEX: Academic Poster Editing Agentic Expert](https://arxiv.org/abs/2601.04794),<br> Chengxin Shi\*, Qinnan Cai\*, Zeyuan Chen\*, Long Zeng\*, **Yibo Zhao**, Jing Yu, Jianxiang Yu, Xiang Li.

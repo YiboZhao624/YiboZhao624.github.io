@@ -1,6 +1,8 @@
 
 # 📑 Publications  <a href='https://scholar.google.com/citations?user=gaDH26EAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+- `ACL 2026` [RATE: Reviewer Profiling and Annotation-free Training for Expertise Ranking in Peer Review Systems](https://arxiv.org/abs/2601.19637), <br> Weicong Liu\*, Zixuan Yang\*, **Yibo Zhao**, Xiang Li.
+
 - `AAAI 2026` [Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving](https://arxiv.org/abs/2503.06567), <br> Yao Cheng, **Yibo Zhao**, Jiapeng Zhu, Yao Liu, Xing Sun, Xiang Li.
 
 - `EMNLP 2025` [Text Detoxification: Data Efficiency, Semantic Preservation and Model Generalization](https://arxiv.org/abs/2507.01050), <br> Jing Yu\*, **Yibo Zhao\***, Jiapeng Zhu, Wenming Shao, Bo Pang, Zhao Zhang, Xiang Li.
@@ -14,7 +16,5 @@
 - [GRACE: Reinforcement Learning for Grounded Response and Abstention under Contextual Evidence](https://arxiv.org/abs/2601.04525), <br> **Yibo Zhao**, Jiapeng Zhu, Zichen Ding, Xiang Li.
 
 - [OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards](https://arxiv.org/abs/2603.19191), <br> Zehao Li, Zhenyu Wu, **Yibo Zhao**, Bowen Yang, Jingjing Xie, Zhaoyang Liu, Zhoumianze Liu, Kaiming Jin, Jianze Liang, Zonglin Li, Feng Wu, Bowen Zhou, Zun Wang, Zichen Ding
-
-- [RATE: Reviewer Profiling and Annotation-free Training for Expertise Ranking in Peer Review Systems](https://arxiv.org/abs/2601.19637), <br> Weicong Liu\*, Zixuan Yang\*, **Yibo Zhao**, Xiang Li.
 
 - [APEX: Academic Poster Editing Agentic Expert](https://arxiv.org/abs/2601.04794),<br> Chengxin Shi\*, Qinnan Cai\*, Zeyuan Chen\*, Long Zeng\*, **Yibo Zhao**, Jing Yu, Jianxiang Yu, Xiang Li.

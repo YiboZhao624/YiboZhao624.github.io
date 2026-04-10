@@ -24,7 +24,7 @@ My research interests include:
 - **Reinforcement Learning**: applications in agent related research, especially search agent and memory management.
 
 <div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 12px 16px; margin: 16px 0; font-size: 16px;">
-  📢 <strong>I am actively looking for 2025 Summer Research Internships and 2027 Fall PhD positions.</strong> 
+  📢 <strong>I am actively looking for 2026 Summer Research Internships and 2027 Fall PhD positions.</strong> 
   Please feel free to <a href="mailto:yibozhao@stu.ecnu.edu.cn">contact me</a> if you have any relevant opportunities!
 </div>
 

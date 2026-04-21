@@ -116,6 +116,10 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Pagination
+paginate: 8
+paginate_path: "/blog/page:num/"
+
 # Defaults
 defaults:
   # _pages
@@ -124,6 +128,13 @@ defaults:
       type: pages
     values:
       layout: default
+      author_profile: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
       author_profile: true
 
 

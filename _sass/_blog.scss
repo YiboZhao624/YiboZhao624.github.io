@@ -1,0 +1,162 @@
+/* ==========================================================================
+   BLOG STYLES
+   ========================================================================== */
+
+/* Blog post list */
+.blog-posts {
+  margin-top: 1em;
+}
+
+.blog-post-item {
+  padding: 1.5em 0;
+  border-bottom: 1px solid $border-color;
+
+  &:first-child {
+    padding-top: 0;
+  }
+}
+
+.blog-post-meta {
+  font-size: $type-size-7;
+  color: $gray;
+  margin-bottom: 0.3em;
+
+  time {
+    font-family: $sans-serif;
+  }
+}
+
+.blog-post-tags {
+  margin-left: 0.5em;
+}
+
+.blog-tag {
+  display: inline-block;
+  padding: 0.1em 0.5em;
+  margin: 0 0.2em;
+  font-size: $type-size-8;
+  color: #fff;
+  background-color: $info-color;
+  border-radius: 3px;
+}
+
+.blog-post-title {
+  margin: 0.2em 0 0.3em;
+  font-size: $type-size-4;
+  line-height: 1.3;
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+
+    &:hover {
+      color: $link-color;
+      text-decoration: underline;
+    }
+  }
+}
+
+.blog-post-excerpt {
+  font-size: $type-size-6;
+  color: mix(#fff, $text-color, 20%);
+  margin: 0;
+}
+
+/* Pagination */
+.blog-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5em;
+  margin-top: 2em;
+  padding-top: 1.5em;
+  border-top: 1px solid $border-color;
+}
+
+.blog-pagination__link {
+  color: $link-color;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.blog-pagination__info {
+  font-size: $type-size-7;
+  color: $gray;
+}
+
+/* Individual post page */
+.post-nav-back {
+  margin-bottom: 1.5em;
+
+  a {
+    font-size: $type-size-6;
+    color: $gray;
+    text-decoration: none;
+
+    &:hover {
+      color: $link-color;
+      text-decoration: underline;
+    }
+  }
+}
+
+.post-header {
+  margin-bottom: 1.5em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid $border-color;
+}
+
+.post-title {
+  margin: 0 0 0.3em;
+  line-height: 1.2;
+}
+
+.post-meta {
+  font-size: $type-size-7;
+  color: $gray;
+  font-family: $sans-serif;
+
+  time {
+    margin-right: 0.8em;
+  }
+}
+
+.post-reading-time {
+  margin-right: 0.8em;
+
+  &::before {
+    content: "\00b7";
+    margin-right: 0.3em;
+  }
+}
+
+.post-tags {
+  &::before {
+    content: "\00b7";
+    margin-right: 0.3em;
+  }
+}
+
+.post-content {
+  h2 {
+    margin-top: 1.5em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid $border-color;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    box-shadow: 3px 3px 6px #888;
+    margin: 1em 0;
+  }
+
+  pre {
+    padding: 1em;
+    border-radius: 4px;
+    overflow-x: auto;
+  }
+}

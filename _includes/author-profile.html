@@ -31,7 +31,7 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{author.email}}</a></li>
       {% endif %}
-      <li><a href="javascript:void(0)" onclick="document.getElementById('wechat-modal').style.display='flex'"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat</a></li>
+      <li><a href="#" onclick="event.preventDefault();document.getElementById('wechat-modal').style.display='flex'"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat</a></li>
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -127,7 +127,7 @@
       {% if author.email %}
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       {% endif %}
-      <a href="javascript:void(0)" onclick="document.getElementById('wechat-modal').style.display='flex'"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i></a>
+      <a href="#" onclick="event.preventDefault();document.getElementById('wechat-modal').style.display='flex'"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i></a>
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
       {% endif %}

@@ -11,9 +11,15 @@
 
 # 📜 Preprints
 
+- [Retrieval, Reward, and Training Protocols: What Matters in Training Search Agents?](https://arxiv.org/abs/2605.27881), <br> **Yibo Zhao**, Zichen Ding, Jiayi Wu, Zun Wang, Xiang Li.
+
 - [E$^2$GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness](https://arxiv.org/abs/2505.24226), <br> **Yibo Zhao**, Jiapeng Zhu, Jianxiang Yu, Ye Guo, Kangkang He, Xiang Li.
 
 - [GRACE: Reinforcement Learning for Grounded Response and Abstention under Contextual Evidence](https://arxiv.org/abs/2601.04525), <br> **Yibo Zhao**, Jiapeng Zhu, Zichen Ding, Xiang Li.
+
+- [Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG](https://arxiv.org/abs/2605.28004), <br> Jiaming Zhang, **Yibo Zhao**, Jing Yu, Jianxiang Yu, Xiang Li.
+
+- [MERIT: Matching Expertise via Rubric-Informed Training for Reviewer Assignment](https://arxiv.org/abs/2605.27865), <br> Zixuan Yang, **Yibo Zhao**, Weicong Liu, Xiang Li.
 
 - [OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards](https://arxiv.org/abs/2603.19191), <br> Zehao Li, Zhenyu Wu, **Yibo Zhao**, Bowen Yang, Jingjing Xie, Zhaoyang Liu, Zhoumianze Liu, Kaiming Jin, Jianze Liang, Zonglin Li, Feng Wu, Bowen Zhou, Zun Wang, Zichen Ding
 

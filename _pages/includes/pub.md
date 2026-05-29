@@ -21,6 +21,8 @@
 
 - [MERIT: Matching Expertise via Rubric-Informed Training for Reviewer Assignment](https://arxiv.org/abs/2605.27865), <br> Zixuan Yang, **Yibo Zhao**, Weicong Liu, Xiang Li.
 
+- [Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning](https://arxiv.org/abs/2605.28424), <br> Jiapeng Zhu, Jianxiang Yu, **Yibo Zhao**, Chengcheng Han, Qi Gu, Xunliang Cai, Xiang Li, Weining Qian.
+
 - [OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards](https://arxiv.org/abs/2603.19191), <br> Zehao Li, Zhenyu Wu, **Yibo Zhao**, Bowen Yang, Jingjing Xie, Zhaoyang Liu, Zhoumianze Liu, Kaiming Jin, Jianze Liang, Zonglin Li, Feng Wu, Bowen Zhou, Zun Wang, Zichen Ding
 
 - [APEX: Academic Poster Editing Agentic Expert](https://arxiv.org/abs/2601.04794),<br> Chengxin Shi\*, Qinnan Cai\*, Zeyuan Chen\*, Long Zeng\*, **Yibo Zhao**, Jing Yu, Jianxiang Yu, Xiang Li.

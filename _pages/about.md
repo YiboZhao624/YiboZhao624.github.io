@@ -33,7 +33,7 @@ My research interests include:
 <span class='anchor' id='publications'></span>
 
 # 🔥 News
-- *2026.05* 🎉🎉 3 new papers released on ArXiv, enjoy!
+- *2026.05* 🎉🎉 4 new papers released on ArXiv, enjoy!
 - *2026.04* 🔥🔥 Our work RATE is accepted by ACL 2026, see you in CA!
 - *2026.01* 🎊🎊 Happy New Year! A recent work GRACE has been released on ArXiv!
 <!--- *2025.11* 🎉🎉 Our work CogRAG is Accepted by AAAI 2026, see you in Singapore! -->

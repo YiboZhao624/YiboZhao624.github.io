@@ -20,8 +20,8 @@ redirect_from:
 I am currently a second-year post-graduate Student at the School of Data Science and Engineering, East China Normal University, under the supervision of [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING (graPh mining and LANguage processING) lab.
 
 My research interests include:
-- **Large Language Models**: applications in GraphRAG, toxicity detection, and detoxification.
-- **Reinforcement Learning**: applications in agent related research, especially search agent and memory management.
+- **Large Language Models**: applications in GraphRAG ([E$^2$GraphRAG](https://arxiv.org/abs/2505.24226), [CrossAug](https://arxiv.org/abs/2605.28004), [CogGRAG](https://arxiv.org/abs/2503.06567)), toxicity detection ([MetaTox](https://arxiv.org/abs/2412.15268)), and detoxification ([GEM](https://arxiv.org/abs/2507.01050)).
+- **Agentic Reinforcement Learning**: Search Agent ([Empirical Review](https://arxiv.org/abs/2605.27881), [GRACE](https://arxiv.org/abs/2601.04525)), Trajectory Doctor ([OS-Themis](https://arxiv.org/abs/2603.19191)), and skills related ([Skill0.5](https://arxiv.org/abs/2605.28424)).
 
 <!-- <div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 12px 16px; margin: 16px 0; font-size: 16px;">
   📢 <strong>I am actively looking for 2026 Summer Research Internships and 2027 Fall PhD positions.</strong> 
@@ -52,4 +52,4 @@ My research interests include:
 
 
 # 💻 Internships
-- *2025.12 - now* GUI Agent Intern, OpenGVLab, AI Lab <img src='./images/logos/AILAB.png' style='width: 3em;'>, Shanghai, China.
+- *2025.12 - 2026.06* Post-training Intern, LLM Center, AI Lab <img src='./images/logos/AILAB.png' style='width: 3em;'>, Shanghai, China.

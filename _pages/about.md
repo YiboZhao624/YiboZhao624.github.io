@@ -53,3 +53,33 @@ My research interests include:
 
 # 💻 Internships
 - *2025.12 - 2026.06* Post-training Intern, LLM Center, AI Lab <img src='./images/logos/AILAB.png' style='width: 3em;'>, Shanghai, China.
+
+# 🎲 Fun Facts
+
+<div id="fun-fact-container" style="position: relative; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 12px; padding: 24px 28px; margin: 16px 0; min-height: 80px; display: flex; align-items: center; transition: all 0.3s ease;">
+  <span id="fun-fact-text" style="font-size: 1.05em; line-height: 1.6; flex: 1; padding-right: 40px;"></span>
+  <button onclick="showRandomFact()" title="Show another fact" style="position: absolute; top: 12px; right: 12px; background: none; border: none; cursor: pointer; font-size: 1.4em; opacity: 0.6; transition: opacity 0.2s, transform 0.3s; padding: 4px 8px;" onmouseover="this.style.opacity='1'; this.style.transform='rotate(180deg)'" onmouseout="this.style.opacity='0.6'; this.style.transform='rotate(0deg)'">🔄</button>
+</div>
+
+<script>
+const funFacts = [
+  "🎤 I'm a Hip-hop fan. My favourite rappers are Kendrick Lamar, Mac Ova Seas, and Asen.",
+  "🏀 I'm an NBA fan. Let's go Blazers!",
+  "🗣️ I'm a Chinese debater, and used to be the leader of the ECNU School of Communication Debate Team.",
+  "💭 I like to talk about society and philosophy. My belief is partly constructed by Foucault and Camus — I think we don't know the meaning of doing something before doing it, but the meaning is created when we are doing it.",
+  "📜 I love both traditional and contemporary Chinese poetry. I'd love to talk about Su Shi, Du Fu, Yu Guangzhong, and Yu Xiuhua.",
+  "📚 I'm a fiction lover, including serious literature and web literature."
+];
+let lastFactIndex = -1;
+function showRandomFact() {
+  let idx;
+  do { idx = Math.floor(Math.random() * funFacts.length); } while (idx === lastFactIndex && funFacts.length > 1);
+  lastFactIndex = idx;
+  const el = document.getElementById('fun-fact-text');
+  el.style.opacity = '0';
+  setTimeout(() => { el.textContent = funFacts[idx]; el.style.opacity = '1'; }, 200);
+}
+document.addEventListener('DOMContentLoaded', showRandomFact);
+// Fallback in case DOMContentLoaded already fired
+if (document.readyState !== 'loading') showRandomFact();
+</script>

@@ -17,12 +17,14 @@
 
 - [GRACE: Reinforcement Learning for Grounded Response and Abstention under Contextual Evidence](https://arxiv.org/abs/2601.04525), <br> **Yibo Zhao**, Jiapeng Zhu, Zichen Ding, Xiang Li.
 
+- [Think Big, Search Small: Where Capacity Matters in Hierarchical Search Agents?](https://arxiv.org/abs/2607.07548), <br> Qinnan Cai\*, **Yibo Zhao\***, Xiang Li.
+
 - [Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG](https://arxiv.org/abs/2605.28004), <br> Jiaming Zhang, **Yibo Zhao**, Jing Yu, Jianxiang Yu, Xiang Li.
 
 - [MERIT: Matching Expertise via Rubric-Informed Training for Reviewer Assignment](https://arxiv.org/abs/2605.27865), <br> Zixuan Yang, **Yibo Zhao**, Weicong Liu, Xiang Li.
 
 - [Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning](https://arxiv.org/abs/2605.28424), <br> Jiapeng Zhu, Jianxiang Yu, **Yibo Zhao**, Chengcheng Han, Qi Gu, Xunliang Cai, Xiang Li, Weining Qian.
 
-- [OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards](https://arxiv.org/abs/2603.19191), <br> Zehao Li, Zhenyu Wu, **Yibo Zhao**, Bowen Yang, Jingjing Xie, Zhaoyang Liu, Zhoumianze Liu, Kaiming Jin, Jianze Liang, Zonglin Li, Feng Wu, Bowen Zhou, Zun Wang, Zichen Ding
+- [OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards](https://arxiv.org/abs/2603.19191), <br> Zehao Li, Zhenyu Wu, **Yibo Zhao**, Bowen Yang, Jingjing Xie, Zhaoyang Liu, Zhoumianze Liu, Kaiming Jin, Jianze Liang, Zonglin Li, Feng Wu, Bowen Zhou, Zun Wang, Zichen Ding.
 
 - [APEX: Academic Poster Editing Agentic Expert](https://arxiv.org/abs/2601.04794),<br> Chengxin Shi\*, Qinnan Cai\*, Zeyuan Chen\*, Long Zeng\*, **Yibo Zhao**, Jing Yu, Jianxiang Yu, Xiang Li.

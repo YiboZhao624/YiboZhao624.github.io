@@ -54,6 +54,12 @@ My research interests include:
 # 💻 Internships
 - *2025.12 - 2026.06* Post-training Intern, LLM Center, AI Lab <img src='./images/logos/AILAB.png' style='width: 3em;'>, Shanghai, China.
 
+<span class='anchor' id='teaching'></span>
+
+# 📚 Teaching
+
+- *2025–2026 Fall*, Teaching Assistant, **Contemporary Artificial Intelligence** (undergraduate level), East China Normal University (ECNU), China.
+
 # 🎲 Fun Facts
 
 <div id="fun-fact-container" style="position: relative; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 12px; padding: 24px 28px; margin: 16px 0; min-height: 80px; display: flex; align-items: center; transition: all 0.3s ease;">

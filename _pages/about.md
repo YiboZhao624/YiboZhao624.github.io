@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year post-graduate Student at the School of Data Science and Engineering, East China Normal University, under the supervision of [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING (graPh mining and LANguage processING) lab.
+I am a third-year graduate student at the School of Data Science and Engineering, East China Normal University, advised by [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING (graPh mining and LANguage processING) lab.
 
-My research interests include:
-- **Large Language Models**: applications in GraphRAG ([E$^2$GraphRAG](https://arxiv.org/abs/2505.24226), [CrossAug](https://arxiv.org/abs/2605.28004), [CogGRAG](https://arxiv.org/abs/2503.06567)), toxicity detection ([MetaTox](https://arxiv.org/abs/2412.15268)), and detoxification ([GEM](https://arxiv.org/abs/2507.01050)).
-- **Agentic Reinforcement Learning**: Search Agent ([Empirical Review](https://arxiv.org/abs/2605.27881), [GRACE](https://arxiv.org/abs/2601.04525)), Trajectory Doctor ([OS-Themis](https://arxiv.org/abs/2603.19191)), and skills related ([Skill0.5](https://arxiv.org/abs/2605.28424)).
+My research explores how language models and agents can **acquire external information, use it effectively, and learn from experience to solve future tasks**. My work follows three connected directions:
+
+- **Acquiring external information.** I develop methods to organize and retrieve external knowledge, making relevant information more accessible to models: [MetaTox](https://arxiv.org/abs/2412.15268), [E$^2$GraphRAG](https://arxiv.org/abs/2505.24226), [CogGRAG](https://arxiv.org/abs/2503.06567), and [CrossAug](https://arxiv.org/abs/2605.28004).
+- **Learning to use information in tasks.** I study how training and agent design help models reason with evidence and use search to solve tasks: [GRACE](https://arxiv.org/abs/2601.04525), [Search Agent Review](https://arxiv.org/abs/2605.27881), and [Think Big, Search Small](https://arxiv.org/abs/2607.07548).
+- **Distilling experience for future tasks.** I explore how reusable skills and long-term memory help agents carry what they learn across tasks: [Skill0.5](https://arxiv.org/abs/2605.28424) and [LazyMem](https://arxiv.org/abs/2607.22690).
 
 <!-- <div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 12px 16px; margin: 16px 0; font-size: 16px;">
-  📢 <strong>I am actively looking for 2026 Summer Research Internships and 2027 Fall PhD positions.</strong> 
+  📢 <strong>I am actively looking for 2027 Fall PhD positions.</strong>
   Please feel free to <a href="mailto:yibozhao@stu.ecnu.edu.cn">contact me</a> if you have any relevant opportunities!
 </div> -->
 

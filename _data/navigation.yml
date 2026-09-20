@@ -12,9 +12,6 @@ main:
   - title: "Blog"
     url: "/blog/"
 
-  - title: "Teaching"
-    url: "/#teaching"
-
   # Upload the resume PDF to files/cv.pdf.
   - title: "CV"
     url: "/cv/"

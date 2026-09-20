@@ -62,6 +62,13 @@ My research explores how language models and agents can **acquire external infor
 
 - *2025–2026 Fall*, Teaching Assistant, **Contemporary Artificial Intelligence** (undergraduate level), East China Normal University (ECNU), China.
 
+<span class='anchor' id='service'></span>
+
+# 🔍 Service
+
+- I serve(d) as a **reviewer** for the following venues:
+  - KDD 2027 (Cycle 1), COLM 2026, ACL Rolling Review (ARR).
+
 # 🎲 Fun Facts
 
 <div id="fun-fact-container" style="position: relative; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 12px; padding: 24px 28px; margin: 16px 0; min-height: 80px; display: flex; align-items: center; transition: all 0.3s ease;">

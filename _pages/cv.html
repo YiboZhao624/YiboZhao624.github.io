@@ -1,0 +1,18 @@
+---
+layout: default
+title: "CV"
+permalink: /cv/
+author_profile: false
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/cv.css' | relative_url }}">
+<div class="cv-preview">
+  <div class="cv-toolbar">
+    <h1>Curriculum Vitae</h1>
+    <a class="cv-download" href="{{ '/files/cv.pdf' | relative_url }}" download="Yibo-Zhao-CV.pdf" target="_self">Download PDF</a>
+  </div>
+  <p id="cv-status" role="status">Loading CV preview...</p>
+  <noscript><p>Enable JavaScript to preview the CV, or use Download PDF above.</p></noscript>
+  <div id="cv-pages" data-pdf-url="{{ '/files/cv.pdf' | relative_url }}" aria-label="CV document" aria-busy="true"></div>
+</div>
+<script type="module" src="{{ '/assets/js/cv-preview.js' | relative_url }}"></script>

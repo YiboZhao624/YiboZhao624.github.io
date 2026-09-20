@@ -15,6 +15,10 @@ main:
   - title: "Teaching"
     url: "/#teaching"
 
+  # Upload the resume PDF to files/cv.pdf.
+  - title: "CV"
+    url: "/cv/"
+
 #  - title: "Honors and Awards"
 #    url: "/#-honors-and-awards"
 

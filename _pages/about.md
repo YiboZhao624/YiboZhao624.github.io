@@ -54,7 +54,7 @@ My research explores how language models and agents can **acquire external infor
 
 
 # 💻 Internships
-- *2025.12 - 2026.06* Post-training Intern, LLM Center, AI Lab <img src='./images/logos/AILAB.png' style='width: 3em;'>, Shanghai, China.
+- *2025.12 - 2026.09* Post-training Intern, LLM Center, AI Lab <img src='./images/logos/AILAB.png' style='width: 3em;'>, Shanghai, China. Mentor: [Zichen Ding](https://heroding77.github.io/).
 
 <span class='anchor' id='teaching'></span>
 
@@ -98,3 +98,5 @@ document.addEventListener('DOMContentLoaded', showRandomFact);
 // Fallback in case DOMContentLoaded already fired
 if (document.readyState !== 'loading') showRandomFact();
 </script>
+
+<p lang="la" style="margin: 2.5rem 0 0; text-align: right; color: #999999; font-family: Georgia, 'Times New Roman', serif; font-size: 1em; font-style: italic; letter-spacing: 0.04em;">Amor fati.</p>

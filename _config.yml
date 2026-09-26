@@ -14,6 +14,10 @@ google_scholar_stats_use_cdn : true
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
+# Private visit logging. Set to the deployed collector's HTTPS /collect URL.
+# Leave blank to disable. No database credentials belong in this file.
+visit_tracking_endpoint : "https://homepage-visit-collector.homepage-visit-collector.workers.dev/collect"
+
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
@@ -64,6 +68,7 @@ include:
   - _pages
   - files
 exclude:
+  - analytics-worker
   - docs
   - google_scholar_crawler
   - "*.sublime-project"

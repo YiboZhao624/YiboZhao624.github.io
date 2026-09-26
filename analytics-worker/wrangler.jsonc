@@ -1,0 +1,20 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "homepage-visit-collector",
+  "main": "src/index.mjs",
+  "compatibility_date": "2026-09-01",
+  "workers_dev": true,
+  "vars": {
+    "ALLOWED_ORIGINS": "https://yibozhao624.github.io",
+    "RETENTION_DAYS": "90"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "homepage-visits",
+      "database_id": "0b5dee44-b5bb-45dc-8c41-c0f5878e5d6a"
+    }
+  ],
+  "triggers": { "crons": ["0 19 * * *"] },
+  "observability": { "enabled": false }
+}

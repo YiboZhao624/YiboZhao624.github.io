@@ -23,7 +23,7 @@ My research explores how language models and agents can **acquire external infor
 
 - **Acquiring external information.** I develop methods to organize and retrieve external knowledge, making relevant information more accessible to models: [MetaTox](https://arxiv.org/abs/2412.15268), [E$^2$GraphRAG](https://arxiv.org/abs/2505.24226), [CogGRAG](https://arxiv.org/abs/2503.06567), and [CrossAug](https://arxiv.org/abs/2605.28004).
 - **Learning to use information in tasks.** I study how training and agent design help models reason with evidence and use search to solve tasks: [GRACE](https://arxiv.org/abs/2601.04525), [Search Agent Review](https://arxiv.org/abs/2605.27881), and [Think Big, Search Small](https://arxiv.org/abs/2607.07548).
-- **Distilling experience for future tasks.** I explore how reusable skills and long-term memory help agents carry what they learn across tasks: [Skill0.5](https://arxiv.org/abs/2605.28424) and [LazyMem](https://arxiv.org/abs/2607.22690).
+- **Distilling experience for future tasks.** I study how models and agents turn experience into reusable knowledge and capabilities for future problem solving: [Skill0.5](https://arxiv.org/abs/2605.28424), [LazyMem](https://arxiv.org/abs/2607.22690), and [S$^2$D-OPD](https://arxiv.org/abs/2609.29142).
 
 <!-- <div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 12px 16px; margin: 16px 0; font-size: 16px;">
   📢 <strong>I am actively looking for 2027 Fall PhD positions.</strong>
@@ -35,6 +35,7 @@ My research explores how language models and agents can **acquire external infor
 <span class='anchor' id='publications'></span>
 
 # 🔥 News
+- *2026.09* 🎉🎉 A new paper, [Not Every Token Is Worth Distilling](https://arxiv.org/abs/2609.29142), is out on arXiv. Enjoy!
 - *2026.05* 🎉🎉 4 new papers released on ArXiv, enjoy!
 - *2026.04* 🔥🔥 Our work RATE is accepted by ACL 2026, see you in CA!
 - *2026.01* 🎊🎊 Happy New Year! A recent work GRACE has been released on ArXiv!

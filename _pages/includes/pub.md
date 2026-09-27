@@ -18,6 +18,8 @@
 
 # 📜 Preprints
 
+- [Not Every Token Is Worth Distilling: Selective Supervision for Direct-OPD](https://arxiv.org/abs/2609.29142), <br> **Yibo Zhao\***, Zixuan Yang\*, Yunshi Lan, Xiang Li.
+
 - [Retrieval, Reward, and Training Protocols: What Matters in Training Search Agents?](https://arxiv.org/abs/2605.27881), <br> **Yibo Zhao**, Zichen Ding, Jiayi Wu, Zun Wang, Xiang Li.
 
 - [E$^2$GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness](https://arxiv.org/abs/2505.24226), <br> **Yibo Zhao**, Jiapeng Zhu, Jianxiang Yu, Ye Guo, Kangkang He, Xiang Li.

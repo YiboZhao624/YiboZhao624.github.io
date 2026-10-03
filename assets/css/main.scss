@@ -41,6 +41,31 @@
 @import "print";
 @import "blog";
 
+.phd-banner {
+    margin: 0 0 1.25em;
+    padding: 1em 1.2em;
+    border: 1px solid #d7e3f3;
+    border-left: 4px solid $info-color;
+    border-radius: 8px;
+    background: #f3f7fc;
+    line-height: 1.6;
+
+    &__title {
+        display: block;
+        margin-bottom: 0.3em;
+        color: $info-color;
+    }
+
+    p {
+        margin: 0;
+    }
+
+    &__links {
+        display: inline-block;
+        white-space: nowrap;
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;

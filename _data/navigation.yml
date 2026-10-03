@@ -13,7 +13,7 @@ main:
     url: "/blog/"
 
   # Upload the resume PDF to files/cv.pdf.
-  - title: "CV"
+  - title: "Resume"
     url: "/cv/"
 
 #  - title: "Honors and Awards"

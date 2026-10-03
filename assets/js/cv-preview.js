@@ -18,7 +18,7 @@ try {
     canvas.width = Math.ceil(viewport.width * pixelRatio);
     canvas.height = Math.ceil(viewport.height * pixelRatio);
     canvas.setAttribute('role', 'img');
-    canvas.setAttribute('aria-label', `CV page ${number} of ${pdf.numPages}`);
+    canvas.setAttribute('aria-label', `Resume page ${number} of ${pdf.numPages}`);
     await page.render({
       canvasContext: canvas.getContext('2d'),
       viewport,
@@ -32,8 +32,8 @@ try {
   status.textContent = '';
   status.hidden = true;
 } catch (error) {
-  status.textContent = 'The preview could not be loaded. Please use Download PDF to view the CV.';
-  console.error('CV preview failed:', error);
+  status.textContent = 'The preview could not be loaded. Please use Download PDF to view the resume.';
+  console.error('Resume preview failed:', error);
 } finally {
   container.setAttribute('aria-busy', 'false');
 }

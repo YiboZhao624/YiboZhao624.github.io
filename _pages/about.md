@@ -17,6 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<aside class="phd-banner" aria-label="Ph.D. opportunities">
+  <strong class="phd-banner__title"><span aria-hidden="true">🎓</span> Seeking Ph.D. opportunities for Fall 2027</strong>
+  <p>I’d love to connect with prospective advisors whose research aligns with mine. <span class="phd-banner__links"><a href="mailto:{{ site.author.email }}">Email</a> <span aria-hidden="true">·</span> <a href="{{ '/cv/' | relative_url }}">Resume</a></span></p>
+</aside>
+
 I am a third-year graduate student at the School of Data Science and Engineering, East China Normal University, advised by [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING (graPh mining and LANguage processING) lab.
 
 My research explores how language models and agents can **acquire external information, use it effectively, and learn from experience to solve future tasks**. My work follows three connected directions:
@@ -24,11 +29,6 @@ My research explores how language models and agents can **acquire external infor
 - **Acquiring external information.** I develop methods to organize and retrieve external knowledge, making relevant information more accessible to models: [MetaTox](https://arxiv.org/abs/2412.15268), [E$^2$GraphRAG](https://arxiv.org/abs/2505.24226), [CogGRAG](https://arxiv.org/abs/2503.06567), and [CrossAug](https://arxiv.org/abs/2605.28004).
 - **Learning to use information in tasks.** I study how training and agent design help models reason with evidence and use search to solve tasks: [GRACE](https://arxiv.org/abs/2601.04525), [Search Agent Review](https://arxiv.org/abs/2605.27881), and [Think Big, Search Small](https://arxiv.org/abs/2607.07548).
 - **Distilling experience for future tasks.** I study how models and agents turn experience into reusable knowledge and capabilities for future problem solving: [Skill0.5](https://arxiv.org/abs/2605.28424), [LazyMem](https://arxiv.org/abs/2607.22690), and [S$^2$D-OPD](https://arxiv.org/abs/2609.29142).
-
-<!-- <div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 12px 16px; margin: 16px 0; font-size: 16px;">
-  📢 <strong>I am actively looking for 2027 Fall PhD positions.</strong>
-  Please feel free to <a href="mailto:yibozhao@stu.ecnu.edu.cn">contact me</a> if you have any relevant opportunities!
-</div> -->
 
 ★★★ Feel free to reach out to me for academic discussions and collaborations!
 

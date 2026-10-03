@@ -35,6 +35,7 @@ My research explores how language models and agents can **acquire external infor
 <span class='anchor' id='publications'></span>
 
 # 🔥 News
+- *2026.10* 🎉 My work has surpassed **100 citations** on [Google Scholar](https://scholar.google.com/citations?user=gaDH26EAAAAJ&hl=en). A milestone—keep moving!
 - *2026.09* 🎉🎉 A new paper, [Not Every Token Is Worth Distilling](https://arxiv.org/abs/2609.29142), is out on arXiv. Enjoy!
 - *2026.05* 🎉🎉 4 new papers released on ArXiv, enjoy!
 - *2026.04* 🔥🔥 Our work RATE is accepted by ACL 2026, see you in CA!

@@ -6,8 +6,6 @@
 
 - `EMNLP 2026 Findings` [Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning](https://arxiv.org/abs/2605.28424), <br> Jiapeng Zhu, Jianxiang Yu, **Yibo Zhao**, Chengcheng Han, Qi Gu, Xunliang Cai, Xiang Li, Weining Qian.
 
-- `EMNLP 2026 Findings` [Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG](https://arxiv.org/abs/2605.28004), <br> Jiaming Zhang, **Yibo Zhao**, Jing Yu, Jianxiang Yu, Xiang Li.
-
 - `ACL 2026` [RATE: Reviewer Profiling and Annotation-free Training for Expertise Ranking in Peer Review Systems](https://arxiv.org/abs/2601.19637), <br> Weicong Liu\*, Zixuan Yang\*, **Yibo Zhao**, Xiang Li.
 
 - `AAAI 2026` [Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving](https://arxiv.org/abs/2503.06567), <br> Yao Cheng, **Yibo Zhao**, Jiapeng Zhu, Yao Liu, Xing Sun, Xiang Li.
@@ -17,6 +15,8 @@
 - `ACL 2025 Findings` [Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph](https://arxiv.org/abs/2412.15268), <br> **Yibo Zhao**, Jiapeng Zhu, Can Xu, Yao Liu, Xiang Li.
 
 # 📜 Preprints
+
+- [Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG](https://arxiv.org/abs/2605.28004), <br> Jiaming Zhang, **Yibo Zhao**, Jing Yu, Jianxiang Yu, Xiang Li.
 
 - [Not Every Token Is Worth Distilling: Selective Supervision for Direct-OPD](https://arxiv.org/abs/2609.29142), <br> **Yibo Zhao\***, Zixuan Yang\*, Yunshi Lan, Xiang Li.
 

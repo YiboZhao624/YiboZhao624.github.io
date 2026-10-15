@@ -26,7 +26,7 @@ I am a third-year graduate student at the School of Data Science and Engineering
 
 My research explores how language models and agents can **acquire external information, use it effectively, and learn from experience to solve future tasks**. My work follows three connected directions:
 
-- **Acquiring external information.** I develop methods to organize and retrieve external knowledge, making relevant information more accessible to models: [MetaTox](https://arxiv.org/abs/2412.15268), [E$^2$GraphRAG](https://arxiv.org/abs/2505.24226), [CogGRAG](https://arxiv.org/abs/2503.06567), and [CrossAug](https://arxiv.org/abs/2605.28004).
+- **Acquiring external information.** I develop methods for organizing knowledge, retrieving relevant evidence, and matching expertise to task needs, spanning knowledge-graph retrieval ([MetaTox](https://arxiv.org/abs/2412.15268), [E$^2$GraphRAG](https://arxiv.org/abs/2505.24226), [CogGRAG](https://arxiv.org/abs/2503.06567), [CrossAug](https://arxiv.org/abs/2605.28004)) and expert matching ([RATE](https://arxiv.org/abs/2601.19637), [MERIT](https://arxiv.org/abs/2605.27865)).
 - **Learning to use information in tasks.** I study how training and agent design help models reason with evidence and use search to solve tasks: [GRACE](https://arxiv.org/abs/2601.04525), [Search Agent Review](https://arxiv.org/abs/2605.27881), and [Think Big, Search Small](https://arxiv.org/abs/2607.07548).
 - **Distilling experience for future tasks.** I study how models and agents turn experience into reusable knowledge and capabilities for future problem solving: [Skill0.5](https://arxiv.org/abs/2605.28424), [LazyMem](https://arxiv.org/abs/2607.22690), and [S$^2$D-OPD](https://arxiv.org/abs/2609.29142).
 

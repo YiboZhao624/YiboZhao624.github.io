@@ -94,7 +94,9 @@ class CrawlerTests(unittest.TestCase):
             Path("results/gs_data_shieldsio.json").write_text('{"message":"81"}')
             with patch.dict(os.environ, {"GOOGLE_SCHOLAR_ID": "example", "GITHUB_OUTPUT": "output.txt", "GITHUB_STEP_SUMMARY": "summary.md"}), patch.object(crawler.requests, "Session") as factory, contextlib.redirect_stdout(io.StringIO()):
                 factory.return_value.__enter__.return_value.get.side_effect = [response(page(more=True)), response(status=429)]
-                crawler.main()
+                with self.assertRaises(SystemExit) as failure:
+                    crawler.main()
+                self.assertEqual(failure.exception.code, 1)
             self.assertEqual(Path("results/gs_data.json").read_text(), previous_text)
             self.assertEqual(Path("results/gs_data_shieldsio.json").read_text(), '{"message":"81"}')
             self.assertEqual(Path("output.txt").read_text(), "updated=false\n")

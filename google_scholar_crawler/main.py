@@ -121,8 +121,8 @@ def main():
         with requests.Session() as session:
             author = fetch_author(session, scholar_id)
     except ScholarUnavailable as error:
-        report(False, f"::warning::Citation data NOT updated: {error} Previous data and its timestamp are unchanged. Retry on the next scheduled run.")
-        return
+        report(False, f"::error::Citation data NOT updated: {error} Previous data and its timestamp are unchanged. Retry on the next scheduled run.")
+        raise SystemExit(1) from error
     # Both files are produced only after every page was fetched and validated.
     results = Path("results")
     results.mkdir(exist_ok=True)

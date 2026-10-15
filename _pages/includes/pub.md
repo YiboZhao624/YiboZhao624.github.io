@@ -16,8 +16,6 @@
 
 # 📜 Preprints
 
-- [Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG](https://arxiv.org/abs/2605.28004), <br> Jiaming Zhang, **Yibo Zhao**, Jing Yu, Jianxiang Yu, Xiang Li.
-
 - [Not Every Token Is Worth Distilling: Selective Supervision for Direct-OPD](https://arxiv.org/abs/2609.29142), <br> **Yibo Zhao\***, Zixuan Yang\*, Yunshi Lan, Xiang Li.
 
 - [Retrieval, Reward, and Training Protocols: What Matters in Training Search Agents?](https://arxiv.org/abs/2605.27881), <br> **Yibo Zhao**, Zichen Ding, Jiayi Wu, Zun Wang, Xiang Li.
@@ -29,5 +27,7 @@
 - [Think Big, Search Small: Where Capacity Matters in Hierarchical Search Agents?](https://arxiv.org/abs/2607.07548), <br> Qinnan Cai\*, **Yibo Zhao\***, Xiang Li.
 
 - [LazyMem: Retrieve Broadly, Construct Selectively for Efficient Long-Term Agent Memory](https://arxiv.org/abs/2607.22690), <br> Jing Yu, **Yibo Zhao**, Jiaming Zhang, Xiang Li.
+
+- [Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG](https://arxiv.org/abs/2605.28004), <br> Jiaming Zhang, **Yibo Zhao**, Jing Yu, Jianxiang Yu, Xiang Li.
 
 - [OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards](https://arxiv.org/abs/2603.19191), <br> Zehao Li, Zhenyu Wu, **Yibo Zhao**, Bowen Yang, Jingjing Xie, Zhaoyang Liu, Zhoumianze Liu, Kaiming Jin, Jianze Liang, Zonglin Li, Feng Wu, Bowen Zhou, Zun Wang, Zichen Ding.
